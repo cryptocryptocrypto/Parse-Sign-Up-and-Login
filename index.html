@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title> Login and Sign Up Example </title>
+    	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>	
+    	<script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.2.8.min.js"></script>
+    	<script type="text/JavaScript" src="my_parse_app.js"></script> 
+    </head>
+    
+    <body>
+	    <form>
+		    Username: <input type="text" id="signup-username" placeholder="Username" required="yes"> <br>
+		    Email: <input type="text" id="signup-email" placeholder="Password" required="yes"> <br>
+		    Password: <input type="password" id="signup-password" placeholder="Password" required="yes"> <br>
+		    <input type="button" onclick="signUpUser()" value="Sign Up">
+		</form>
+		<form>
+		    Username: <input type="text" id="signin-username" placeholder="Username" required="yes"> <br>
+		    Password: <input type="password" id="signin-password" placeholder="Password" required="yes"> <br>
+		    <input type="button" onclick="signInUser()" value="Sign In">
+		</form>
+    </body>
+    
+</html>
