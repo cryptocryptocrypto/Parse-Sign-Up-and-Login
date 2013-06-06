@@ -5,9 +5,7 @@ Sign up and Login example using [Parse](www.parse.com) and their Javascript API.
 
 ### Instructions
 
-The only thing you will have to do is add in your Parse App ID and Javascript key in the signUpUser() and signInUser() fu
-
-Parse gives this to you automatically when you "add your app" to their database. 
+The only thing you will have to do is add in your Parse App ID and Javascript key to the project. I have commented where to put these keys in the javascript file. 
 
 ###Contact
 
