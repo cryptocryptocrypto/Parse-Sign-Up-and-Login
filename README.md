@@ -5,9 +5,7 @@ Sign up and Login example using [Parse](www.parse.com) and their [Javascript API
 
 ###Contact
 
-Feel free to follow me on [Twitter](www.twitter.com/anthonygeranio).
-
-[Email](mailto:anthony.geranio@quinnipiac.edu) me for freelance work. I am very experienced with Web and iOS Development.
+Feel free to follow me on [Twitter](www.twitter.com/asg).
 
 ###License
 
