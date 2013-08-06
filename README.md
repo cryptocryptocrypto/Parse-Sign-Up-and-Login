@@ -1,11 +1,11 @@
 Parse-Sign-Up-and-Login
 =======================
 
-Sign up and Login example using [Parse](www.parse.com) and their [Javascript API](https://www.parse.com/docs/js/). 
+Sign up and Login example using [Parse](http://www.parse.com) and their [Javascript API](https://www.parse.com/docs/js/). 
 
 ###Contact
 
-Feel free to follow me on [Twitter](www.twitter.com/asg).
+Feel free to follow me on [Twitter](http://www.twitter.com/asg).
 
 ###License
 
